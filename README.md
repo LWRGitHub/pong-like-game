@@ -7,6 +7,7 @@ I created an awesome game that uses the DOM "a tightly integrated part of JavaSc
 - DOM 
 - HTML
 - CSS
+- [GitHub Pages](https://lwrgithub.github.io/pong-like-game/)
 
 
 ## Setup/Install
